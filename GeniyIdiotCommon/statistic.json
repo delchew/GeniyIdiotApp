@@ -1,0 +1,77 @@
+﻿[
+  {
+    "UserName": "Иван",
+    "CountRightAnswers": 2,
+    "Diagnose": "Кретин"
+  },
+  {
+    "UserName": "Петр",
+    "CountRightAnswers": 0,
+    "Diagnose": "Идиот"
+  },
+  {
+    "UserName": "Миша",
+    "CountRightAnswers": 2,
+    "Diagnose": "Кретин"
+  },
+  {
+    "UserName": "Паша",
+    "CountRightAnswers": 2,
+    "Diagnose": "Кретин"
+  },
+  {
+    "UserName": "Гена",
+    "CountRightAnswers": 2,
+    "Diagnose": "Кретин"
+  },
+  {
+    "UserName": "Надя",
+    "CountRightAnswers": 7,
+    "Diagnose": "Талант"
+  },
+  {
+    "UserName": "Зоя",
+    "CountRightAnswers": 9,
+    "Diagnose": "Гений"
+  },
+  {
+    "UserName": "Гоша",
+    "CountRightAnswers": 2,
+    "Diagnose": "Кретин"
+  },
+  {
+    "UserName": "Вася",
+    "CountRightAnswers": 5,
+    "Diagnose": "Нормальный"
+  },
+  {
+    "UserName": "Люся",
+    "CountRightAnswers": 2,
+    "Diagnose": "Дурак"
+  },
+  {
+    "UserName": "Соня",
+    "CountRightAnswers": 0,
+    "Diagnose": "Идиот"
+  },
+  {
+    "UserName": "Яна",
+    "CountRightAnswers": 7,
+    "Diagnose": "Талант"
+  },
+  {
+    "UserName": "Лена",
+    "CountRightAnswers": 2,
+    "Diagnose": "Кретин"
+  },
+  {
+    "UserName": "Виталик",
+    "CountRightAnswers": 4,
+    "Diagnose": "Дурак"
+  },
+  {
+    "UserName": "Захар",
+    "CountRightAnswers": 0,
+    "Diagnose": "Идиот"
+  }
+]
